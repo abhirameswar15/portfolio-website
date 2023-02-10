@@ -1,0 +1,55 @@
+.img
+{
+    height:300px;
+    width: 300px;
+    border-radius: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#home
+{
+    justify-content: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+.foot
+{
+    text-decoration: none;
+    color: rgb(216, 234, 237);
+}
+.div1
+{
+    color:white;
+}
+.skillname{
+    padding-left: 2px;
+    color: white;
+}
+.skilltag{
+    font-size: small;
+    margin: -4px 0;
+    color: white;
+}
+.skillimg
+{
+    width: 10px;
+
+}
+body
+{   
+     background-image: url('bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.footimg
+{
+    fill: rgb(237, 250, 252);
+    margin-left: 40px;
+}
+.footimg:hover
+{
+    filter: invert(54%) sepia(90%) saturate(1892%) hue-rotate(89deg) brightness(110%) contrast(111%);
+}
